@@ -1,5 +1,5 @@
 **💰 Loan Approval Prediction using Machine Learning**
-**📌 Overview
+📌 Overview
 
 This project is a Machine Learning-based Loan Approval Prediction System that predicts whether a loan application will be approved or not based on applicant details.
 The model is trained using historical data and achieves an impressive 98% accuracy using Random Forest Classifier,
@@ -11,8 +11,9 @@ User-friendly interface (Streamlit-based UI)
 High accuracy model (Random Forest)
 Data preprocessing & feature engineering included
 Easy deployment and scalability
-**
-🧠 Machine Learning Model**
+
+
+**🧠 Machine Learning Model**
 Algorithm Used: Random Forest Classifier
 Accuracy Achieved: 98%
 Evaluation Metrics:
@@ -60,15 +61,13 @@ Improve UI/UX
 Real-time database integration
 
 
-**
 🤝 Contributing
-**
+
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 
-**
+
 📜 License
-**
 This project is open-source and available under the MIT License.
 
 
