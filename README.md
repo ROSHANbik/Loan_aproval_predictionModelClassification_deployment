@@ -1,4 +1,4 @@
-**💰 Loan Approval Prediction using Machine Learning
+**💰 Loan Approval Prediction using Machine Learning**
 **📌 Overview
 
 This project is a Machine Learning-based Loan Approval Prediction System that predicts whether a loan application will be approved or not based on applicant details.
@@ -21,14 +21,8 @@ Confusion Matrix
 Classification Report
 
 **📂 Project Structure**
-Loan_Approval_Prediction/
-│
-├── data/                  # Dataset files
-├── notebook/              # Jupyter Notebook (EDA + Training)
-├── model/                 # Saved trained model (.pkl)
-├── app.py                 # Streamlit application
-├── requirements.txt       # Required libraries
-└── README.md              # Project documentation
+
+<img width="703" height="234" alt="Screenshot 2026-04-09 134712" src="https://github.com/user-attachments/assets/bad67ffd-5d8b-4fee-ab89-ccda5c5ffccc" />
 
 
 
@@ -38,6 +32,7 @@ Pandas & NumPy
 Scikit-learn
 Streamlit
 Matplotlib / Seaborn
+
 
 **📈 Model Workflow**
 Data Collection
@@ -63,14 +58,19 @@ Deploy on cloud (AWS / Render / Streamlit Cloud)
 Add more advanced models (XGBoost, Neural Networks)
 Improve UI/UX
 Real-time database integration
+
+
 **
 🤝 Contributing
 **
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+
 **
 📜 License
 **
 This project is open-source and available under the MIT License.
+
 
 **🙌 Acknowledgements**
 Scikit-learn documentation
